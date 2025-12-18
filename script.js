@@ -15,7 +15,7 @@ const products = [
     {
         id: 2,
         name: "Pristine 8.6+ 600ml",
-        price: 85000,
+        price: 88000,
         image: "pristine.jpg",
         description: "Air minum alkali Pristine pH 8.6+ ukuran 600ml, pas untuk aktivitas olahraga dan perjalanan jauh dengan hidrasi maksimal.",
         benefits: [
@@ -346,4 +346,5 @@ window.onclick = (event) => {
     if (event.target === modal) {
         closeModal();
     }
+
 }
